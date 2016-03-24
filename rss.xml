@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rahul Kolamkar]]></title>
         <description><![CDATA[Rahul Kolamkar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rahul-kolamkar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 17:33:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 17:58:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rahul-kolamkar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Five Tested Tips That Keep Your Mood Up]]></title>
+            <description><![CDATA[<article><h1>Five Tested Tips That Keep Your Mood Up</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/605d48f3-b89b-4156-bba6-2cfb11872351.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rahul-kolamkar/five-tested-tips-that-keep-your-mood-up/index.html</link>
+            <guid isPermaLink="false">dd57cbce-7b33-4228-8c7c-ce37d9adc769</guid>
+            <pubDate>Thu, 24 Mar 2016 17:58:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Tune Your Body and Mind With Meditation]]></title>
             <description><![CDATA[<article><h1>How To Tune Your Body and Mind With Meditation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bbfaeba78ff7e2f6aae6565d51c1c5348275cd5.jpg"></article>]]></description>
-            <link>undefinedhow-to-tune-your-body-and-mind-with-meditation/index.html</link>
+            <link>https://thegrid.ai/rahul-kolamkar/how-to-tune-your-body-and-mind-with-meditation/index.html</link>
             <guid isPermaLink="false">85f49fd8-c91e-42e5-a64b-922a64d19761</guid>
             <pubDate>Thu, 24 Mar 2016 17:33:01 GMT</pubDate>
         </item>
