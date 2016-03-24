@@ -1,0 +1,28 @@
+name: Rahul Kolamkar
+favicon: null
+layout_spectrum: 0.15300489333458245
+typography_spectrum: 0.8497984537389129
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8005100502632558
+  lightness: 0.3676360244862735
+  saturation: 0.5892246311996132
+  rhythmicContrast: 0.7042076906654984
+purpose: []
