@@ -2,12 +2,13 @@ name: Rahul Kolamkar
 favicon: null
 layout_spectrum: 0.15300489333458245
 typography_spectrum: 0.8497984537389129
+title: A Homoeopath and Thinker
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75513275-1
   facebook: null
   twitter: null
 opengraph:
